@@ -1,7 +1,7 @@
- 👋  Hi, I’m Keyla
+ 👋  Hi, I’m Keyla.
 
  
- 👀  I’m interested in Art,Software and Travel.
+ 👀  I’m interested in Art, Software and Travel.
 
  
 🌱  I’m currently learning Java.
