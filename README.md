@@ -16,6 +16,7 @@
 <img src="https://github.com/user-attachments/assets/0c8454da-8552-40bc-aa18-321b63e83d54" width="120" height="80">
 
 
+
  👀  I’m interested in Art, Software and Travel.
 
 💞️  I’m looking to collaborate on something that can improve my skills. 
