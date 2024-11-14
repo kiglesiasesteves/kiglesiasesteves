@@ -16,13 +16,11 @@
 <img src="https://github.com/user-attachments/assets/0c8454da-8552-40bc-aa18-321b63e83d54" width="120" height="80">
 
 
+✨ I’m a Multiplatform Application Development student starting my career. I love learning from every subject, especially from those with many years of experience. When I'm not coding, you can find me geeking out about art and exploring different ways of traveling to various parts of the world. I’m looking to collaborate on any project that would help me improve my skills (or learn something new!).
 
- 👀  I’m interested in Art, Software and Travel.
+🐢 One of the things I love most is learning languages. By now, I speak Spanish, Galician, English, and Portuguese fluently. One of my favorite learning memories is when my colleagues and I developed a scientific project about tardigrades. Have you ever heard about these cute little creatures? Through that project, I learned more about my creativity, reliability, and how much I enjoy working with a team.
 
-💞️  I’m looking to collaborate on something that can improve my skills. 
-
- ✨  Fun fact: My favorite animal is the red panda. 
- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiglesiasesteves)](https://github.com/kiglesiasesteves/github-readme-stats)
  
 
 
