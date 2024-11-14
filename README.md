@@ -1,3 +1,5 @@
+![KEYLA](https://github.com/user-attachments/assets/22ba44b6-e5ea-4f91-8895-a79514472051)
+
  👋  Hi, I’m Keyla.
 
  
@@ -14,7 +16,6 @@
  
  
 
-Skills I have learned
 ### Skills I have learned
 
 <img src="https://github.com/user-attachments/assets/b63dd1ad-2ab4-491a-84e6-8b1559eda46b" width="100" height="80">
