@@ -1,16 +1,11 @@
+Hi, I’m Keyla 👋👩🏾‍💻
+
 ![KEYLA](https://github.com/user-attachments/assets/22ba44b6-e5ea-4f91-8895-a79514472051)
 
- 👋  Hi, I’m Keyla.
 
- 
  👀  I’m interested in Art, Software and Travel.
 
- 
-🌱  I’m currently learning Java, Python and PostgreSQL.
-
-
 💞️  I’m looking to collaborate on something that can improve my skills. 
-
 
  ✨  Fun fact: My favorite animal is the red panda. 
  
