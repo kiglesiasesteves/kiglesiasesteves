@@ -13,6 +13,7 @@
 <img src="https://github.com/user-attachments/assets/9823a91c-46d0-48c6-9a96-7062d2284cfc" width="50" height="40">
 <img src="https://github.com/user-attachments/assets/0c8454da-8552-40bc-aa18-321b63e83d54" width="60" height="40">
 
+<br>
 
 ✨ I’m a Multiplatform Application Development student starting my career. I love learning from every subject, especially from those with many years of experience. When I'm not coding, you can find me geeking out about art and exploring different ways of traveling to various parts of the world. I’m looking to collaborate on any project that would help me improve my skills (or learn something new!).
 
