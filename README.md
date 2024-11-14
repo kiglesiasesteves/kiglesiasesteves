@@ -3,8 +3,6 @@
 ![KEYLA](https://github.com/user-attachments/assets/22ba44b6-e5ea-4f91-8895-a79514472051)
 
 
-### Skills I have learned
-
 <img src="https://github.com/user-attachments/assets/b63dd1ad-2ab4-491a-84e6-8b1559eda46b" width="50" height="40">
 <img src="https://github.com/user-attachments/assets/115f4160-40eb-42a3-8dfc-ca6ea821baa9" width="50" height="40">
 <img src="https://github.com/user-attachments/assets/17ba3b0f-f16d-4577-90bb-988ee7839c9e" width="50" height="40">
