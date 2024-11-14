@@ -3,14 +3,6 @@
 ![KEYLA](https://github.com/user-attachments/assets/22ba44b6-e5ea-4f91-8895-a79514472051)
 
 
- 👀  I’m interested in Art, Software and Travel.
-
-💞️  I’m looking to collaborate on something that can improve my skills. 
-
- ✨  Fun fact: My favorite animal is the red panda. 
- 
- 
-
 ### Skills I have learned
 
 <img src="https://github.com/user-attachments/assets/b63dd1ad-2ab4-491a-84e6-8b1559eda46b" width="100" height="80">
@@ -22,6 +14,16 @@
 <img src="https://github.com/user-attachments/assets/10d39fbf-af38-493b-b1da-f7efd2b1cbfc" width="120" height="80">
 <img src="https://github.com/user-attachments/assets/9823a91c-46d0-48c6-9a96-7062d2284cfc" width="100" height="80">
 <img src="https://github.com/user-attachments/assets/0c8454da-8552-40bc-aa18-321b63e83d54" width="120" height="80">
+
+
+ 👀  I’m interested in Art, Software and Travel.
+
+💞️  I’m looking to collaborate on something that can improve my skills. 
+
+ ✨  Fun fact: My favorite animal is the red panda. 
+ 
+ 
+
 
 
 
