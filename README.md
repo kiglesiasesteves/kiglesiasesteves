@@ -1,5 +1,5 @@
-![KEYLA (2)](https://github.com/user-attachments/assets/8a454d20-b5ce-45![KEYLA (2)](https://github.com/user-attachments/assets/93904c2a-8fc9-4b8a-9f32-283d723fe67e)
-59-8fd3-5a950907ca48)
+
+![KEYLA (2)](https://github.com/user-attachments/assets/f51e8b8d-3cf6-4913-a1ff-f2e28a934d28)
 
 
 ✨ I’m a Multiplatform Application Development student starting my career. I love learning from every subject, especially from those with many years of experience. When I'm not coding, you can find me geeking out about art and exploring different ways of traveling to various parts of the world. I’m looking to collaborate on any project that would help me improve my skills (or learn something new!).
