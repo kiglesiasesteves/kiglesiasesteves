@@ -1,4 +1,3 @@
-# Hi, I’m Keyla 👋👩🏾‍💻
 
 ![imgINicio](https://github.com/user-attachments/assets/000dc249-350d-4b53-b2a6-53e8d2b995ab)
 
