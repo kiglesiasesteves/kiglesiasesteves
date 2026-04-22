@@ -14,7 +14,7 @@
 
 # My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiglesiasesteves&show_icons=true&theme=default)
+![Stats](https://ghstats.dev/api/card?username=kiglesiasesteves)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiglesiasesteves&layout=compact)
 
 
